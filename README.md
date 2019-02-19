@@ -1,8 +1,4 @@
 
-[![Build Status](https://travis-ci.org/apache/nifi.svg?branch=master)](https://travis-ci.org/apache/nifi)
-[![Docker pulls](https://img.shields.io/docker/pulls/apache/nifi.svg)](https://hub.docker.com/r/apache/nifi/)
-[![Version](https://img.shields.io/maven-central/v/org.apache.nifi/nifi-utils.svg)](https://nifi.apache.org/download.html)
-[![Slack](https://img.shields.io/badge/chat-on%20Slack-brightgreen.svg)](https://join.slack.com/t/apachenifi/shared_invite/enQtNDI2NDMyMTY3MTA5LWJmZDI3MmM1ZmYyODQwZDYwM2MyMDY5ZjkyMDkxY2JmOGMyNmEzYTE0MTRkZTYwYzZlYTJkY2JhZTYyMzcyZGI)
 
 [Apache NiFi](https://nifi.apache.org/) is an easy to use, powerful, and
 reliable system to process and distribute data.
