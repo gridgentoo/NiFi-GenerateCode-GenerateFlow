@@ -1,3 +1,8 @@
+## Кодогенерация для оптимизации In-Memory : Apache Ignite, Apache NiFi, & TsLab 
+https://www.youtube.com/watch?v=VRJ0q2YJRsA
+
+## Как Uber использует кодогенерацию в мобильных разработках на Kotlin 
+https://www.youtube.com/watch?v=DLoHM3P2j8w
 
 ## Генерация кода в NiFi GenerateCode & GenerateFlow 
 
